@@ -1,0 +1,22 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Twitter bot for monitoring one or more user feeds and retweeting tweets with a specific hashtag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dirty-casuals/twitter-bot.git"
+  },
+  "author": "chvck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dirty-casuals/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/dirty-casuals/twitter-bot#readme",
+  "dependencies": {
+    "twitter": "^1.2.5"
+  }
+}
