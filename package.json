@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dirty-casuals/twitter-bot#readme",
   "dependencies": {
-    "twitter": "^1.2.5"
+    "twit": "^2.2.4",
+    "winston": "^2.2.0"
   }
 }
